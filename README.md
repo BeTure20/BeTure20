@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeTure20
-- 👀 I’m interested in php,javascript,mysql,mobile dev
+- 👀 I’m interested in laravel,vue js,javascript,mysql,mobile dev
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me +2348060781332
