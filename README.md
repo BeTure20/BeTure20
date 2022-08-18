@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeTure20
+- 👋 Hi, I’m Gbajuola Oluwafemi 
 - 👀 I’m interested in laravel,vue js,javascript,mysql,mobile dev
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any type of project
