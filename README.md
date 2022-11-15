@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gbajuola Oluwafemi 
-- 👀 I’m interested in laravel,vue js,javascript,mysql,mobile dev
+- 👀 I’m interested in laravel,vue js,javascript,mysql,mobile dev(flutter)
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on any type of project
+- 💞️ I’m looking to collaborate on any type of project on my interest
 - 📫 How to reach me +2348060781332
 
 <!---
